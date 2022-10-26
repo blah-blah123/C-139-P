@@ -1,0 +1,30 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.heading h3{
+    display: inline;
+    font-size: 30px;
+}
+
+.heading button{
+    float: right;
+    border: 3px solid snow;
+}
+
+.copy-right footer{
+    line-height: 5;
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: sticky;
+    color:snow;
+    width:100%;
+}
